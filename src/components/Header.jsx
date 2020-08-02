@@ -1,10 +1,10 @@
 import React from "react";
-// import DeleteForever  from "@material-ui/icons/Delete";
+import HighlightIcon  from "@material-ui/icons/Highlight";
 function Header() {
   return (
     <header>
       <h1>
-        {/* <DeleteForever /> */}
+        <HighlightIcon />
         Keeper</h1>
     </header>
   );
